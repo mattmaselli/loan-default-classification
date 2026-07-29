@@ -1,7 +1,7 @@
 # loan-default-prediction
 
 ## Project Overview
-This is my notebook project in Python, reading data of customer loans, the target variable being whether or not they defaulted. In this project I make and execute multiple models to find the optimal results.
+This is my notebook project in Python, reading data of customer loans, the target variable being whether or not they defaulted. I make and execute multiple models to find the best one.
 
 ## Setup
 
@@ -20,7 +20,7 @@ Important information about dataset, as per link:
 Columns include customer_age, customer_income, loan_intent, loan_grade, and more.
 
 ## Goal
-My goal with this project overall is to experiment with multiple models on this datset while also dabbling in data cleaning, exploratory analysis, feature selection and transformation. For results, I'm searching for the model that will give me the best recall while also preserving precision, f1 and accuracy, avoids overfitting, and runs in a short amount of time. 
+My goal with this project overall is to experiment with multiple models on this dataset while also dabbling in data cleaning, exploratory analysis, feature selection and transformation. For results, I'm searching for the model that will give me the best recall while also preserving precision, f1 and accuracy, avoids overfitting, and runs in a short amount of time. 
 
 ## Models Used 
 1. K Nearest Neighbors
