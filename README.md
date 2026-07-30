@@ -34,9 +34,13 @@ Out of the two models, the 1st Modest RF has the more balanced output, with reca
 
 ## Key Metrics
 Recall: all true positives / true positives + false negatives
+
 Precision: all true positives / true positives + false positives
+
 Accuracy: total # of correct predictions / all predictions
+
 F1-Score: harmonic mean of precision and recall, balancing both metrics.
+
 Time: The time it takes a model to run.
 
 ## Future Improvements
