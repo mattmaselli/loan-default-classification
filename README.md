@@ -1,4 +1,4 @@
-# loan-default-prediction
+# loan-default-classification
 
 ## Project Overview
 This is my notebook project in Python, reading data of customer loans, the target variable being whether or not they defaulted. I make and execute multiple models to find the best one.
